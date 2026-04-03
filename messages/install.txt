@@ -1,0 +1,16 @@
+
+            ┏┳┓┓     ┓         ╻
+             ┃ ┣┓┏┓┏┓┃┏  ┓┏┏┓┓┏┃
+             ┻ ┛┗┗┻┛┗┛┗  ┗┫┗┛┗┻•
+                          ┛
+
+┌─────────────────────────────────────────────┐
+│   ⚡ Sublime Bulk Renamer is ready to go!   │
+│                                             │
+│  Right click on a directory in the sidebar  │
+│  or trigger "Bulk rename parent directory"  │
+│         from the Command Palette            │
+└─────────────────────────────────────────────┘
+
+Report bugs or contribute in the original repository:
+https://github.com/guille/sublime-bulk-renamer

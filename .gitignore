@@ -1,0 +1,4 @@
+tests/foo
+
+__pycache__/
+*.py[oc]

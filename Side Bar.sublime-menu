@@ -1,0 +1,10 @@
+[
+    {
+        "id": "sbr-action",
+        "caption": "Bulk rename files",
+        "command": "sbr_bulk_rename_in_dir",
+        "args": {
+            "dirs": []
+        },
+    }
+]

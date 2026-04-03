@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"build_systems": [
+		{
+			"name": "Generate dummy dirs",
+			"shell_cmd": "./tests/clean.sh && ./tests/generate.sh",
+			"working_dir": "$folder"
+		},
+		{
+			"name": "Run unit tests (Mise)",
+			"cmd": [
+				"mise",
+				"x",
+				"--",
+				"python",
+				"-m",
+				"tests.test_order_renames"
+			],
+			"working_dir": "$folder"
+		}
+	]
+}

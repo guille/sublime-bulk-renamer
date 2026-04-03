@@ -1,0 +1,11 @@
+[
+	{
+		"caption": "Bulk rename parent directory",
+		"command": "sbr_bulk_rename_in_dir",
+		"args": {
+			"dirs": [
+				"$file_path"
+			]
+		},
+	}
+]
